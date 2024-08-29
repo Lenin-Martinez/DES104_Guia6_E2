@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LMartinez\\Documents\\Universidad\\DES\\Guia6\\DockerMVC\\DockerMVC\\DockerMVC.csproj": {}
+    "E:\\Universidad\\DES_Lab\\Guia6\\DES104_Guia6_E2\\DockerMVC\\DockerMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LMartinez\\Documents\\Universidad\\DES\\Guia6\\DockerMVC\\DockerMVC\\DockerMVC.csproj": {
+    "E:\\Universidad\\DES_Lab\\Guia6\\DES104_Guia6_E2\\DockerMVC\\DockerMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LMartinez\\Documents\\Universidad\\DES\\Guia6\\DockerMVC\\DockerMVC\\DockerMVC.csproj",
+        "projectUniqueName": "E:\\Universidad\\DES_Lab\\Guia6\\DES104_Guia6_E2\\DockerMVC\\DockerMVC.csproj",
         "projectName": "DockerMVC",
-        "projectPath": "C:\\Users\\LMartinez\\Documents\\Universidad\\DES\\Guia6\\DockerMVC\\DockerMVC\\DockerMVC.csproj",
+        "projectPath": "E:\\Universidad\\DES_Lab\\Guia6\\DES104_Guia6_E2\\DockerMVC\\DockerMVC.csproj",
         "packagesPath": "C:\\Users\\LMartinez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LMartinez\\Documents\\Universidad\\DES\\Guia6\\DockerMVC\\DockerMVC\\obj\\",
+        "outputPath": "E:\\Universidad\\DES_Lab\\Guia6\\DES104_Guia6_E2\\DockerMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LMartinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -90,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
